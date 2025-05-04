@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthday Ejercicio 2</string>
+    <string name="happy_birthday_text">Feliz Cumple Ana!</string>
+    <string name="signature_text">De Miguel</string>
+</resources>
